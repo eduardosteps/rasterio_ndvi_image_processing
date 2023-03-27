@@ -1,6 +1,6 @@
-# Extração de dados dos pixels em uma matriz numpy para obtenção da saúde da vegetação (NDVI) utilizando a biblioteca Rasterio.
+# Extraction of pixel data into a NumPy array to obtain vegetation health (NDVI) using the Rasterio library.
 
-Este projeto foi desenvolvido por Eduardo Passos, com o objetivo de realizar um cálculo de NDVI (Índice de vegetação de diferença normalizada) para identificação da saúde da vegetação através de dados dos pixels em uma matriz numpy.
+This project was developed by Eduardo Passos with the objective of calculating NDVI (Normalized Difference Vegetation Index) to identify vegetation health through pixel data in a NumPy array.
 
-### Nexte exemplo eu obtive o NDVI de uma plantação no município de Barreiras/BA
+### In this example, I obtained the NDVI of a plantation located in the municipality of Barreiras/BA.
 <img src="img/ndvi.png">
